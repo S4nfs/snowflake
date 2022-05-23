@@ -1,0 +1,21 @@
+.container.content {
+	margin-top: 100px;
+}
+.container.content .label {
+    font-size: 14px;
+    margin-top: 5px;
+    top: 5px;
+    position: relative;
+}
+.container.content .virt-selector {
+    width: auto;
+    margin-left: 15px;
+}
+.container.content .wauto {
+    width: auto;
+}
+
+.table-top {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
